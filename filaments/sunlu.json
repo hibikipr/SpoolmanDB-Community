@@ -149,23 +149,38 @@
       "colors": [
         {
           "name": "Black",
-          "hex": "3A3C3B"
+          "hex": "3A3C3B",
+          "codes": [
+            "DLZ-US-SL-ABS-BK-1KG"
+          ]
         },
         {
           "name": "White",
-          "hex": "FFFFFF"
+          "hex": "FFFFFF",
+          "codes": [
+            "DLZ-US-SL-ABS-WT-1KG"
+          ]
         },
         {
           "name": "Red",
-          "hex": "FF0000"
+          "hex": "FF0000",
+          "codes": [
+            "DLZ-US-SL-ABS-RD-1KG"
+          ]
         },
         {
           "name": "Blue",
-          "hex": "0000FF"
+          "hex": "0000FF",
+          "codes": [
+            "DLZ-US-SL-ABS-BL-1KG"
+          ]
         },
         {
           "name": "Grey",
-          "hex": "808080"
+          "hex": "808080",
+          "codes": [
+            "DLZ-US-SL-ABS-GY-1KG"
+          ]
         },
         {
           "name": "Green",
@@ -392,15 +407,24 @@
       "colors": [
         {
           "name": "Black",
-          "hex": "000000"
+          "hex": "000000",
+          "codes": [
+            "DLZ-US-SL-PETG-BK-1KG"
+          ]
         },
         {
           "name": "White",
-          "hex": "FFFFFF"
+          "hex": "FFFFFF",
+          "codes": [
+            "DLZ-US-SL-PETG-WT-1KG"
+          ]
         },
         {
           "name": "Red",
-          "hex": "FF0000"
+          "hex": "FF0000",
+          "codes": [
+            "DLZ-US-SL-PETG-RD-1KG"
+          ]
         },
         {
           "name": "Blue",
@@ -408,15 +432,24 @@
         },
         {
           "name": "Orange",
-          "hex": "F25602"
+          "hex": "F25602",
+          "codes": [
+            "DLZ-US-SL-PETG-OR-1KG"
+          ]
         },
         {
           "name": "Green",
-          "hex": "5FC50D"
+          "hex": "5FC50D",
+          "codes": [
+            "DLZ-US-SL-PETG-GN-1KG"
+          ]
         },
         {
           "name": "Yellow",
-          "hex": "F6FA00"
+          "hex": "F6FA00",
+          "codes": [
+            "DLZ-US-SL-PETG-YL-1KG"
+          ]
         },
         {
           "name": "Purple",
@@ -424,7 +457,10 @@
         },
         {
           "name": "Grey",
-          "hex": "808080"
+          "hex": "808080",
+          "codes": [
+            "DLZ-US-SL-PETG-GY-1KG"
+          ]
         },
         {
           "name": "Transparent",
@@ -434,32 +470,50 @@
         {
           "name": "Transparent Yellow",
           "translucent": true,
-          "hex": "E2CC5B"
+          "hex": "E2CC5B",
+          "codes": [
+            "DLZ-US-SL-PETG-TPYL-1KG"
+          ]
         },
         {
           "name": "Transparent Red",
           "translucent": true,
-          "hex": "FF4747"
+          "hex": "FF4747",
+          "codes": [
+            "DLZ-US-SL-PETG-TPRD-1KG"
+          ]
         },
         {
           "name": "Transparent Purple",
           "translucent": true,
-          "hex": "8E8AF8"
+          "hex": "8E8AF8",
+          "codes": [
+            "DLZ-US-SL-PETG-TPPP-1KG"
+          ]
         },
         {
           "name": "Transparent Orange",
           "translucent": true,
-          "hex": "FDB958"
+          "hex": "FDB958",
+          "codes": [
+            "DLZ-US-SL-PETG-TPOR-1KG"
+          ]
         },
         {
           "name": "Transparent Green",
           "translucent": true,
-          "hex": "44F867"
+          "hex": "44F867",
+          "codes": [
+            "DLZ-US-SL-PETG-TPGN-1KG"
+          ]
         },
         {
           "name": "Transparent Blue",
           "translucent": true,
-          "hex": "3A87FE"
+          "hex": "3A87FE",
+          "codes": [
+            "DLZ-US-SL-PETG-TPBL-1KG"
+          ]
         }
       ],
       "country_of_origin": "CN"
@@ -1223,11 +1277,18 @@
         },
         {
           "name": "Black",
-          "hex": "000000"
+          "hex": "000000",
+          "codes": [
+            "DLZ-US-SL-ABS-BK-1KG",
+            "DLZ-US-SL-ABS-BK-5KG"
+          ]
         },
         {
           "name": "Grey",
-          "hex": "808080"
+          "hex": "808080",
+          "codes": [
+            "DLZ-US-SL-ABS-GY-1KG"
+          ]
         },
         {
           "name": "Klein Blue",
@@ -1243,7 +1304,10 @@
         },
         {
           "name": "Red",
-          "hex": "CB0018"
+          "hex": "CB0018",
+          "codes": [
+            "DLZ-US-SL-ABS-RD-1KG"
+          ]
         },
         {
           "name": "Roasted Chestnut",
@@ -1251,7 +1315,10 @@
         },
         {
           "name": "White",
-          "hex": "FFFFFF"
+          "hex": "FFFFFF",
+          "codes": [
+            "DLZ-US-SL-ABS-WT-1KG"
+          ]
         },
         {
           "name": "Yellow",
@@ -1896,7 +1963,10 @@
       "colors": [
         {
           "name": "Black",
-          "hex": "000000"
+          "hex": "000000",
+          "codes": [
+            "DLZ-US-SL-PETG-BK-1KG"
+          ]
         },
         {
           "name": "Blue",
@@ -1904,19 +1974,31 @@
         },
         {
           "name": "Green",
-          "hex": "00CC00"
+          "hex": "00CC00",
+          "codes": [
+            "DLZ-US-SL-PETG-GN-1KG"
+          ]
         },
         {
           "name": "Grey",
-          "hex": "6A6C6E"
+          "hex": "6A6C6E",
+          "codes": [
+            "DLZ-US-SL-PETG-GY-1KG"
+          ]
         },
         {
           "name": "Mint Green",
-          "hex": "6FEEDB"
+          "hex": "6FEEDB",
+          "codes": [
+            "DLZ-US-SL-PETG-MG-1KG"
+          ]
         },
         {
           "name": "Orange",
-          "hex": "DE6300"
+          "hex": "DE6300",
+          "codes": [
+            "DLZ-US-SL-PETG-OR-1KG"
+          ]
         },
         {
           "name": "Pink",
@@ -1924,19 +2006,31 @@
         },
         {
           "name": "Red",
-          "hex": "D33D3D"
+          "hex": "D33D3D",
+          "codes": [
+            "DLZ-US-SL-PETG-RD-1KG"
+          ]
         },
         {
           "name": "Sky Blue",
-          "hex": "40B6E4"
+          "hex": "40B6E4",
+          "codes": [
+            "DLZ-US-SL-PETG-SB-1KG"
+          ]
         },
         {
           "name": "White",
-          "hex": "FFFFFF"
+          "hex": "FFFFFF",
+          "codes": [
+            "DLZ-US-SL-PETG-WT-1KG"
+          ]
         },
         {
           "name": "Yellow",
-          "hex": "FFFB00"
+          "hex": "FFFB00",
+          "codes": [
+            "DLZ-US-SL-PETG-YL-1KG"
+          ]
         }
       ],
       "extruder_temp_range": [
@@ -3735,7 +3829,10 @@
         },
         {
           "name": "Transparent(Clear)",
-          "hex": "B9B8B2"
+          "hex": "B9B8B2",
+          "codes": [
+            "DLZ-US-SL-PLA-TP-3KGSPOOL"
+          ]
         },
         {
           "name": "Turquoise Cyan",
@@ -3925,7 +4022,10 @@
         },
         {
           "name": "Gold",
-          "hex": "D39E11"
+          "hex": "D39E11",
+          "codes": [
+            "DLZ-US-SL-PLA-GD-5KG"
+          ]
         },
         {
           "name": "Gold(Light Gold)",
@@ -4183,7 +4283,10 @@
         },
         {
           "name": "Transparent(Clear)",
-          "hex": "C9C7C3"
+          "hex": "C9C7C3",
+          "codes": [
+            "DLZ-US-SL-PLA-TP-3KGSPOOL"
+          ]
         },
         {
           "name": "Vivid Yellow",
@@ -4577,7 +4680,11 @@
       "colors": [
         {
           "name": "Black",
-          "hex": "000000"
+          "hex": "000000",
+          "codes": [
+            "DLZ-US-SL-PLA-BK-3KGSPOOL",
+            "DLZ-US-SL-PLA-BK-5KG"
+          ]
         },
         {
           "name": "Cherry Red",
@@ -4589,7 +4696,11 @@
         },
         {
           "name": "Grey",
-          "hex": "808080"
+          "hex": "808080",
+          "codes": [
+            "DLZ-US-SL-PLA-GY-3KGSPOOL",
+            "DLZ-US-SL-PLA-GY-5KG"
+          ]
         },
         {
           "name": "Lemon Yellow",
@@ -4633,7 +4744,11 @@
         },
         {
           "name": "White",
-          "hex": "FFFFFF"
+          "hex": "FFFFFF",
+          "codes": [
+            "DLZ-US-SL-PLA-WT-3KGSPOOL",
+            "DLZ-US-SL-PLA-WT-5KG"
+          ]
         }
       ],
       "country_of_origin": "US",
@@ -5254,7 +5369,11 @@
         },
         {
           "name": "Red",
-          "hex": "F61F1F"
+          "hex": "F61F1F",
+          "codes": [
+            "DLZ-US-SL-PLA-RD-3KGSPOOL",
+            "DLZ-US-SL-PLA-RD-5KG"
+          ]
         },
         {
           "name": "Sakura Pink",
